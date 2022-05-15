@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Snake animation](https://github.com/situsku/situsku/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/situsku/situsku/main/github-contribution-grid-snake.svg)
 
 <!---
 situsku/situsku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
